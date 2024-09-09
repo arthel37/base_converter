@@ -1,0 +1,16 @@
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\bin\Debug\net8.0-windows\base_converter.exe
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\bin\Debug\net8.0-windows\base_converter.deps.json
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\bin\Debug\net8.0-windows\base_converter.runtimeconfig.json
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\bin\Debug\net8.0-windows\base_converter.dll
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\bin\Debug\net8.0-windows\base_converter.pdb
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.Form1.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.csproj.GenerateResource.cache
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.AssemblyInfoInputs.cache
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.AssemblyInfo.cs
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.csproj.CoreCompileInputs.cache
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.dll
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\refint\base_converter.dll
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.pdb
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.genruntimeconfig.cache
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\ref\base_converter.dll
