@@ -77,7 +77,7 @@ namespace base_converter
             //App calculates the whole part of the requested number
             for (int i = 0; i < wholePart.Length; i++)
             {
-                if (wholePart[i] >= 'A')
+                if (char.ToUpper(wholePart[i]) >= 'A')
                 {
                     baseChar = '7'; // since 'A' has a ASCII value of 65, we need to subtract 55 from it, to get the correct decimal value, '7' has a ASCII value of 55
                 }
@@ -85,9 +85,9 @@ namespace base_converter
                 {
                     baseChar = '0'; // same as before, but for digits lower than 10 it's simply '0';
                 }
-                tempFloat += (wholePart[i] - baseChar) * Math.Pow(inputBase, wholePart.Length - i - 1); // this intermediate number is calculated by subtracting casting a character into ascii value,
-                                                                                                        // then subtracting the correct ascii value from it and finally multiplying it by the correct
-                                                                                                        // power of 10, which in itself is calculated from digit's position
+                tempFloat += (char.ToUpper(wholePart[i]) - baseChar) * Math.Pow(inputBase, wholePart.Length - i - 1);   // this intermediate number is calculated by subtracting casting a character into ascii value,
+                                                                                                                        // then subtracting the correct ascii value from it and finally multiplying it by the correct
+                                                                                                                        // power of 10, which in itself is calculated from digit's position
             }
             outputString = tempFloat.ToString();
 
@@ -97,7 +97,7 @@ namespace base_converter
                 tempFloat = 0;
                 for (int i = 2; i < fractionalPart.Length; i++)
                 {
-                    if (wholePart[i] >= 'A')
+                    if (char.ToUpper(fractionalPart[i]) >= 'A')
                     {
                         baseChar = '7';
                     }
@@ -105,8 +105,8 @@ namespace base_converter
                     {
                         baseChar = '0';
                     }
-                    tempFloat += (fractionalPart[i] - baseChar) * Math.Pow(inputBase, 1 - i);   // the only difference between whole and fractional parts lies in calculating the exponent
-                                                                                                // which has to be negative for the fractional part
+                    tempFloat += (char.ToUpper(fractionalPart[i]) - baseChar) * Math.Pow(inputBase, 1 - i);     // the only difference between whole and fractional parts lies in calculating the exponent
+                                                                                                                // which has to be negative for the fractional part
                 }
                 outputString += tempFloat.ToString().Substring(1);  //the temporary number is added to the output string without the first 0
             }

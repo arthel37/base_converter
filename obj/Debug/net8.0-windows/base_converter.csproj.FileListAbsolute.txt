@@ -14,3 +14,4 @@ C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.
 C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.pdb
 C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.genruntimeconfig.cache
 C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\ref\base_converter.dll
+C:\Users\arthe\Desktop\Programowanie\c#_programms\base_converter\obj\Debug\net8.0-windows\base_converter.sourcelink.json
